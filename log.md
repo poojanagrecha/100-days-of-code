@@ -18,3 +18,44 @@
 
 **Link to work:** [Treasure Island Game](https://github.com/poojanagrecha/100-days-of-code/blob/master/Code/Day3_Treasure_Island_Game.py)
 
+### Day 5: 
+
+**Today's Progress**: 
+
+**Link to work:** 
+
+### Day 6: 
+
+**Today's Progress**: 
+
+**Link to work:** 
+
+### Day 7: 
+
+**Today's Progress**: 
+
+**Link to work:** 
+
+### Day 8: 
+
+**Today's Progress**: 
+
+**Link to work:** 
+
+### Day 9: 
+
+**Today's Progress**: 
+
+**Link to work:** 
+
+### Day 10: 
+
+**Today's Progress**: 
+
+**Link to work:** 
+
+### Day 11: 
+
+**Today's Progress**: 
+
+**Link to work:** 
