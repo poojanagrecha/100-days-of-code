@@ -14,7 +14,7 @@
 
 ### Day 3: February 5, 2021
 
-**Today's Progress**: 
+**Today's Progress**: Today I created a treasure island game using the combination of if/else statements, .lower() function, operators, and conditionals.
 
-**Link to work:** 
+**Link to work:** [Treasure Island Game](https://github.com/poojanagrecha/100-days-of-code/blob/master/Code/Day3_Treasure_Island_Game.py)
 
