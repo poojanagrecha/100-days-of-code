@@ -20,6 +20,12 @@
 * [Love Calculator](https://github.com/poojanagrecha/100-days-of-code/blob/master/Code/Day3_Love_Calculator.py)
 * [Treasure Island Game](https://github.com/poojanagrecha/100-days-of-code/blob/master/Code/Day3_Treasure_Island_Game.py)
 
+### Day 4: February 6, 2021
+
+**Today's Progress**: Today I created a rock paper scissors game you can play with the computer. This project uses the random module, lists, indexing lists, nested lists, and nest if/else statements. I found this project quite difficult but learned a lot about nesting lists and if/else statements within your code. 
+
+**Link to work:** https://github.com/poojanagrecha/100-days-of-code/blob/master/Code/Day4_RockPaperScissors.py
+
 ### Day 5: 
 
 **Today's Progress**: 
