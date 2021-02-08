@@ -16,8 +16,9 @@
 
 **Today's Progress**: For today's assignment I created a Love Calculator taking in two names (you + your crush) and formulating your Love Score! Additionaly for my project, I created a treasure island game using the combination of if/else statements, .lower() function, operators, and conditionals.
 
-**Link to work:** [Love Calculator](https://github.com/poojanagrecha/100-days-of-code/blob/master/Code/Day3_Love_Calculator.py)
-[Treasure Island Game](https://github.com/poojanagrecha/100-days-of-code/blob/master/Code/Day3_Treasure_Island_Game.py)
+**Link to work:** 
+* [Love Calculator](https://github.com/poojanagrecha/100-days-of-code/blob/master/Code/Day3_Love_Calculator.py)
+* [Treasure Island Game](https://github.com/poojanagrecha/100-days-of-code/blob/master/Code/Day3_Treasure_Island_Game.py)
 
 ### Day 5: 
 
