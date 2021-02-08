@@ -24,13 +24,13 @@
 
 **Today's Progress**: Today I created a rock paper scissors game you can play with the computer. This project uses the random module, lists, indexing lists, nested lists, and nest if/else statements. I found this project quite difficult but learned a lot about nesting lists and if/else statements within your code. 
 
-**Link to work:** https://github.com/poojanagrecha/100-days-of-code/blob/master/Code/Day4_RockPaperScissors.py
+**Link to work:** [Rock Paoper Scissors Game](https://github.com/poojanagrecha/100-days-of-code/blob/master/Code/Day4_RockPaperScissors.py)
 
-### Day 5: 
+### Day 5: February 7, 2021
 
-**Today's Progress**: 
+**Today's Progress**: In today's world, big sites storing your data are getting hacked and passwords are being breached to hackers. It is crucial to have a strong password, therefore today's project entailed a password generator. Using for loops, you will be asked to enter the amount of letters, symbols, and numbers you would like in your password and a computer generated password will be created. 
 
-**Link to work:** 
+**Link to work:** [Password Generator](https://github.com/poojanagrecha/100-days-of-code/blob/master/Code/Day5_PasswordGenerator.py)
 
 ### Day 6: 
 
