@@ -32,11 +32,11 @@
 
 **Link to work:** [Password Generator](https://github.com/poojanagrecha/100-days-of-code/blob/master/Code/Day5_PasswordGenerator.py)
 
-### Day 6: 
+### Day 6: February 8, 2021
 
-**Today's Progress**: 
+**Today's Progress**: Today I tackled while loops using Reeborg's World. The final project was to help the Reeborg go through a maze using while loops and if/else statements for any given maze. Because this was done through reeborg.ca no code will be pushed.
 
-**Link to work:** 
+**Link to work:** [Reeborg's World](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Maze&url=worlds%2Ftutorial_en%2Fmaze1.json)
 
 ### Day 7: 
 
