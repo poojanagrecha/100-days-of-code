@@ -24,7 +24,7 @@
 
 **Today's Progress**: Today I created a rock paper scissors game you can play with the computer. This project uses the random module, lists, indexing lists, nested lists, and nest if/else statements. I found this project quite difficult but learned a lot about nesting lists and if/else statements within your code. 
 
-**Link to work:** [Rock Paoper Scissors Game](https://github.com/poojanagrecha/100-days-of-code/blob/master/Code/Day4_RockPaperScissors.py)
+**Link to work:** [Rock Paper Scissors Game](https://github.com/poojanagrecha/100-days-of-code/blob/master/Code/Day4_RockPaperScissors.py)
 
 ### Day 5: February 7, 2021
 
