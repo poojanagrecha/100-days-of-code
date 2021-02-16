@@ -24,19 +24,19 @@
 
 **Today's Progress**: Today I created a rock paper scissors game you can play with the computer. This project uses the random module, lists, indexing lists, nested lists, and nest if/else statements. I found this project quite difficult but learned a lot about nesting lists and if/else statements within your code. 
 
-**Link to work:** https://github.com/poojanagrecha/100-days-of-code/blob/master/Code/Day4_RockPaperScissors.py
+**Link to work:** [Rock Paper Scissors Game](https://github.com/poojanagrecha/100-days-of-code/blob/master/Code/Day4_RockPaperScissors.py)
 
-### Day 5: 
+### Day 5: February 7, 2021
 
-**Today's Progress**: 
+**Today's Progress**: In today's world, big sites storing your data are getting hacked and passwords are being breached to hackers. It is crucial to have a strong password, therefore today's project entailed a password generator. Using for loops, you will be asked to enter the amount of letters, symbols, and numbers you would like in your password and a computer generated password will be created. 
 
-**Link to work:** 
+**Link to work:** [Password Generator](https://github.com/poojanagrecha/100-days-of-code/blob/master/Code/Day5_PasswordGenerator.py)
 
-### Day 6: 
+### Day 6: February 8, 2021
 
-**Today's Progress**: 
+**Today's Progress**: Today I tackled while loops using Reeborg's World. The final project was to help the Reeborg go through a maze using while loops and if/else statements for any given maze. Because this was done through reeborg.ca no code will be pushed.
 
-**Link to work:** 
+**Link to work:** [Reeborg's World](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Maze&url=worlds%2Ftutorial_en%2Fmaze1.json)
 
 ### Day 7: 
 
