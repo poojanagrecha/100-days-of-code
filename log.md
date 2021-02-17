@@ -38,11 +38,11 @@
 
 **Link to work:** [Reeborg's World](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Maze&url=worlds%2Ftutorial_en%2Fmaze1.json)
 
-### Day 7: 
+### Day 7: February 9, 2021
 
-**Today's Progress**: 
+**Today's Progress**: Created a hangman game that allows a user to pick letters to form a word. If the letter is not in the word, the hang man will have limbs attach until the full body has been drawn out and the game is over. 
 
-**Link to work:** 
+**Link to work:** [Hangman](https://github.com/poojanagrecha/100-days-of-code/tree/master/Code/Day7_Hangman)
 
 ### Day 8: 
 
