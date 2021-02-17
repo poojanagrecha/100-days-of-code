@@ -53,6 +53,7 @@
 ### Day 9: February 11, 2021
 
 **Today's Progress**: Today I made a blind auction program that allows a user to input their name and bidding price. The program will ask if a user would like to add another person and if selected "Yes", the screen will clear for another user to input their name and bidding price (This is done to keep the auction silent!) After everyone has entered the bid, the program will determine the winner by highest bid. This program emphasizes the use of dictionaries, lists, and nesting dictionaries with lists and vice versa. 
+
 <em>Note: The clear function only works on repl.it, so to try this code out I have provided the repl.it link.</em>
 
 **Link to work:** 
