@@ -44,11 +44,11 @@
 
 **Link to work:** [Hangman](https://github.com/poojanagrecha/100-days-of-code/tree/master/Code/Day7_Hangman)
 
-### Day 8: 
+### Day 8: February 10, 2021
 
-**Today's Progress**: 
+**Today's Progress**: Created Caesar Cipher, an encryption program that allows a user to input a word, choose how many letters to shift it and outcomes a new word. You can then take the new word and decode it! 
 
-**Link to work:** 
+**Link to work:** [Caesar Cipher](https://github.com/poojanagrecha/100-days-of-code/tree/master/Code/Day8_CaesarCipher)
 
 ### Day 9: 
 
@@ -63,6 +63,60 @@
 **Link to work:** 
 
 ### Day 11: 
+
+**Today's Progress**: 
+
+**Link to work:** 
+
+### Day 12: 
+
+**Today's Progress**: 
+
+**Link to work:** 
+
+### Day 13: 
+
+**Today's Progress**: 
+
+**Link to work:** 
+
+### Day 14: 
+
+**Today's Progress**: 
+
+**Link to work:** 
+
+### Day 15: 
+
+**Today's Progress**: 
+
+**Link to work:** 
+
+### Day 16: 
+
+**Today's Progress**: 
+
+**Link to work:** 
+
+### Day 17: 
+
+**Today's Progress**: 
+
+**Link to work:** 
+
+### Day 18: 
+
+**Today's Progress**: 
+
+**Link to work:** 
+
+### Day 19: 
+
+**Today's Progress**: 
+
+**Link to work:** 
+
+### Day 20: 
 
 **Today's Progress**: 
 
