@@ -60,11 +60,11 @@
   * [Repl.it Silent Auction](https://repl.it/@poojanagrecha/blind-auction-start#main.py)
   * [Silent Auction](https://github.com/poojanagrecha/100-days-of-code/tree/master/Code/Day9_BlindAuction)
 
-### Day 10: 
+### Day 10: February 12, 2021
 
-**Today's Progress**: 
+**Today's Progress**: Today I created a python calculator program.
 
-**Link to work:** 
+**Link to work:** [Calculator](https://github.com/poojanagrecha/100-days-of-code/tree/master/Code/Day10_Calculator)
 
 ### Day 11: 
 
