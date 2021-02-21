@@ -66,11 +66,13 @@
 
 **Link to work:** [Calculator](https://github.com/poojanagrecha/100-days-of-code/tree/master/Code/Day10_Calculator)
 
-### Day 11: 
+### Day 11: February 13, 2021
 
-**Today's Progress**: 
+**Today's Progress**: For a capstone project, I created a Blackjack game that practices the use of inputs and outputs of functions, for loops, while loops, lists, and conditional staments. I have linked both the code and Repl.it link below.
 
 **Link to work:** 
+* [Blackjack File Code](https://github.com/poojanagrecha/100-days-of-code/tree/master/Code/Day11_BlackJack)
+* [Play Blackjack](https://repl.it/@poojanagrecha/blackjack-start#main.py)
 
 ### Day 12: 
 
