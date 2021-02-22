@@ -86,11 +86,13 @@
 
 **Link to work:** N/A
 
-### Day 14: 
+### Day 14: February 16, 2021
 
-**Today's Progress**: 
+**Today's Progress**: Higher/Lower Game. Have you ever wondered who on social media has more followers? This takes famous celebrities, companies, and public figures and allows you to guess who may have a higher follower count. Each time you get it right, you will earn a point! Repl.it link to play and code have been linked below.
 
 **Link to work:** 
+* [Higher/Lower Game Code](https://github.com/poojanagrecha/100-days-of-code/tree/master/Code/Day14_HigherLower)
+* [Play Higher/Lower](https://repl.it/@poojanagrecha/higher-lower-start#main.py)
 
 ### Day 15: 
 
