@@ -74,17 +74,17 @@
 * [Blackjack File Code](https://github.com/poojanagrecha/100-days-of-code/tree/master/Code/Day11_BlackJack)
 * [Play Blackjack](https://repl.it/@poojanagrecha/blackjack-start#main.py)
 
-### Day 12: 
+### Day 12: February 14, 2021
 
-**Today's Progress**: 
+**Today's Progress**: Number Guessing Game that emphasizes the knowlege of global and local scope. 
 
-**Link to work:** 
+**Link to work:** [Number Guessing Code](https://github.com/poojanagrecha/100-days-of-code/tree/master/Code/Day12_NumberGame)
 
-### Day 13: 
+### Day 13: February 15, 2021
 
-**Today's Progress**: 
+**Today's Progress**: Practiced debugging broken code. 
 
-**Link to work:** 
+**Link to work:** N/A
 
 ### Day 14: 
 
